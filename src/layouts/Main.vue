@@ -30,7 +30,7 @@
             <div>
               <img
                 class="logo-size"
-                src="../assets/revdefineLogo.png"
+                src="../assets/Logo.png"
               >
             </div>
 
@@ -38,7 +38,7 @@
               class="font-head"
               shrink
               v-if="$q.screen.gt.xs"
-            >RevDefine
+            >RChain Explorer
             </q-toolbar-title>
 
             <div class="col-md-1 col-lg-1 col-sm-1"></div>
